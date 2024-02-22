@@ -1,30 +1,30 @@
-import { useState, useEffect } from 'react';
-import axios from 'axios';
+import React, { useState, useEffect } from 'react'
 
-function ApiTest() {
-    const [data, setData] = useState([]);
+interface Data {
+    message: string;
+}
+
+const ApiTest: React.FC = () => {
+
+    const [data, setData] = useState<Data | null>(null)
 
     useEffect(() => {
-    const getData = async () => {
-        axios.get('http://localhost:5000/test')
-        .then(response => 
-            {
-                console.log(response)
-            }
-        ).catch(error => 
-            {
-                console.log(error)
-            }
-        )
-    };
-    getData();
-  }, []);
+        console.log('page loaded')
+        fetch('http://localhost:5000/test')
+            .then((response) => response.json())
+            .then((data) => {
+                console.log(data.message)
+                setData(data)
+            })
+    }, []);
 
-    // Rendern Sie die empfangenen Daten
     return (
         <>
+            <h1>API Data:</h1>
+            <p>{data ? data.message : 'Lade Daten...'}</p>
         </>
-    );
+    )
 }
 
 export default ApiTest;
+
