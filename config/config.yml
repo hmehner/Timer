@@ -1,0 +1,5 @@
+Timers:
+  my_Timer:
+    hours: 2
+    minutes: 1
+    seconds: 3

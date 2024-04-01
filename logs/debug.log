@@ -1,0 +1,117 @@
+
+[INFO|server|L22] 2024-02-25T13:57:10+0100: info message
+[INFO|_internal|L96] 2024-02-25T13:57:10+0100: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+[INFO|_internal|L96] 2024-02-25T13:57:10+0100: [33mPress CTRL+C to quit[0m
+[INFO|_internal|L96] 2024-02-25T13:57:10+0100:  * Restarting with stat
+[INFO|server|L22] 2024-02-25T13:57:10+0100: info message
+[WARNING|_internal|L96] 2024-02-25T13:57:10+0100:  * Debugger is active!
+[INFO|_internal|L96] 2024-02-25T13:57:10+0100:  * Debugger PIN: 107-402-733
+[INFO|server|L22] 2024-02-25T13:59:34+0100: info message
+[INFO|_internal|L96] 2024-02-25T13:59:34+0100: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+[INFO|_internal|L96] 2024-02-25T13:59:34+0100: [33mPress CTRL+C to quit[0m
+[INFO|_internal|L96] 2024-02-25T13:59:34+0100:  * Restarting with stat
+[INFO|server|L22] 2024-02-25T13:59:34+0100: info message
+[WARNING|_internal|L96] 2024-02-25T13:59:34+0100:  * Debugger is active!
+[INFO|_internal|L96] 2024-02-25T13:59:34+0100:  * Debugger PIN: 107-402-733
+[INFO|broadcaster|L32] 2024-02-25T13:59:45+0100: Started Handler succesfully!
+[INFO|_internal|L96] 2024-02-25T13:59:45+0100: 127.0.0.1 - - [25/Feb/2024 13:59:45] "POST /start-timer HTTP/1.1" 200 -
+[INFO|server|L22] 2024-02-25T14:00:48+0100: info message
+[INFO|_internal|L96] 2024-02-25T14:00:48+0100: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+[INFO|_internal|L96] 2024-02-25T14:00:48+0100: [33mPress CTRL+C to quit[0m
+[INFO|_internal|L96] 2024-02-25T14:00:48+0100:  * Restarting with stat
+[INFO|server|L22] 2024-02-25T14:00:48+0100: info message
+[WARNING|_internal|L96] 2024-02-25T14:00:48+0100:  * Debugger is active!
+[INFO|_internal|L96] 2024-02-25T14:00:48+0100:  * Debugger PIN: 107-402-733
+[INFO|broadcaster|L32] 2024-02-25T14:00:51+0100: Started Handler succesfully!
+[INFO|_internal|L96] 2024-02-25T14:00:51+0100: 127.0.0.1 - - [25/Feb/2024 14:00:51] "POST /start-timer HTTP/1.1" 200 -
+[INFO|server|L22] 2024-02-25T14:00:58+0100: info message
+[INFO|_internal|L96] 2024-02-25T14:00:58+0100: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+[INFO|_internal|L96] 2024-02-25T14:00:58+0100: [33mPress CTRL+C to quit[0m
+[INFO|_internal|L96] 2024-02-25T14:00:58+0100:  * Restarting with stat
+[INFO|server|L22] 2024-02-25T14:00:58+0100: info message
+[WARNING|_internal|L96] 2024-02-25T14:00:59+0100:  * Debugger is active!
+[INFO|_internal|L96] 2024-02-25T14:00:59+0100:  * Debugger PIN: 107-402-733
+[INFO|broadcaster|L32] 2024-02-25T14:01:00+0100: Started Handler succesfully!
+[INFO|_internal|L96] 2024-02-25T14:01:00+0100: 127.0.0.1 - - [25/Feb/2024 14:01:00] "POST /start-timer HTTP/1.1" 200 -
+[INFO|server|L22] 2024-02-25T14:01:20+0100: info message
+[INFO|_internal|L96] 2024-02-25T14:01:20+0100: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+[INFO|_internal|L96] 2024-02-25T14:01:20+0100: [33mPress CTRL+C to quit[0m
+[INFO|_internal|L96] 2024-02-25T14:01:20+0100:  * Restarting with stat
+[INFO|server|L22] 2024-02-25T14:01:20+0100: info message
+[WARNING|_internal|L96] 2024-02-25T14:01:20+0100:  * Debugger is active!
+[INFO|_internal|L96] 2024-02-25T14:01:20+0100:  * Debugger PIN: 107-402-733
+[INFO|broadcaster|L32] 2024-02-25T14:01:25+0100: Started Handler succesfully!
+[INFO|_internal|L96] 2024-02-25T14:01:25+0100: 127.0.0.1 - - [25/Feb/2024 14:01:25] "POST /start-timer HTTP/1.1" 200 -
+
+[INFO|server|L22] 2024-02-25T14:06:46+0100: info message
+[INFO|_internal|L96] 2024-02-25T14:06:46+0100: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+[INFO|_internal|L96] 2024-02-25T14:06:46+0100: [33mPress CTRL+C to quit[0m
+[INFO|_internal|L96] 2024-02-25T14:06:46+0100:  * Restarting with stat
+[INFO|server|L22] 2024-02-25T14:06:46+0100: info message
+[WARNING|_internal|L96] 2024-02-25T14:06:46+0100:  * Debugger is active!
+[INFO|_internal|L96] 2024-02-25T14:06:46+0100:  * Debugger PIN: 107-402-733
+[INFO|_internal|L96] 2024-02-25T14:06:51+0100: 127.0.0.1 - - [25/Feb/2024 14:06:51] "[35m[1mPOST /start-timer HTTP/1.1[0m" 500 -
+[INFO|_internal|L96] 2024-02-25T14:07:33+0100:  * Detected change in '/home/hans/Programmieren/Timer/server/packages/broadcaster/broadcaster.py', reloading
+[INFO|_internal|L96] 2024-02-25T14:07:33+0100:  * Restarting with stat
+[INFO|server|L22] 2024-02-25T14:07:33+0100: info message
+[WARNING|_internal|L96] 2024-02-25T14:07:33+0100:  * Debugger is active!
+[INFO|_internal|L96] 2024-02-25T14:07:33+0100:  * Debugger PIN: 107-402-733
+[INFO|broadcaster|L32] 2024-02-25T14:07:34+0100: Started Handler succesfully!
+[INFO|_internal|L96] 2024-02-25T14:07:34+0100: 127.0.0.1 - - [25/Feb/2024 14:07:34] "POST /start-timer HTTP/1.1" 200 -
+[INFO|_internal|L96] 2024-02-25T14:08:01+0100:  * Detected change in '/home/hans/Programmieren/Timer/server/packages/timer/timer.py', reloading
+[INFO|_internal|L96] 2024-02-25T14:08:01+0100:  * Restarting with stat
+[INFO|server|L22] 2024-02-25T14:08:01+0100: info message
+[WARNING|_internal|L96] 2024-02-25T14:08:01+0100:  * Debugger is active!
+[INFO|_internal|L96] 2024-02-25T14:08:01+0100:  * Debugger PIN: 107-402-733
+[INFO|broadcaster|L32] 2024-02-25T14:08:06+0100: Started Handler succesfully!
+[INFO|_internal|L96] 2024-02-25T14:08:06+0100: 127.0.0.1 - - [25/Feb/2024 14:08:06] "POST /start-timer HTTP/1.1" 200 -
+[INFO|_internal|L96] 2024-02-25T14:08:13+0100:  * Detected change in '/home/hans/Programmieren/Timer/server/packages/timer/timer.py', reloading
+[INFO|_internal|L96] 2024-02-25T14:08:13+0100:  * Restarting with stat
+[INFO|server|L22] 2024-02-25T14:08:14+0100: info message
+[WARNING|_internal|L96] 2024-02-25T14:08:14+0100:  * Debugger is active!
+[INFO|_internal|L96] 2024-02-25T14:08:14+0100:  * Debugger PIN: 107-402-733
+[INFO|_internal|L96] 2024-02-25T14:08:20+0100:  * Detected change in '/home/hans/Programmieren/Timer/server/packages/timer/timer.py', reloading
+[INFO|_internal|L96] 2024-02-25T14:08:20+0100:  * Restarting with stat
+[INFO|server|L22] 2024-02-25T14:08:20+0100: info message
+[WARNING|_internal|L96] 2024-02-25T14:08:20+0100:  * Debugger is active!
+[INFO|_internal|L96] 2024-02-25T14:08:20+0100:  * Debugger PIN: 107-402-733
+[INFO|broadcaster|L32] 2024-02-25T14:08:21+0100: Started Handler succesfully!
+[INFO|_internal|L96] 2024-02-25T14:08:21+0100: 127.0.0.1 - - [25/Feb/2024 14:08:21] "POST /start-timer HTTP/1.1" 200 -
+[INFO|_internal|L96] 2024-02-25T14:08:53+0100:  * Detected change in '/home/hans/Programmieren/Timer/server/packages/broadcaster/broadcaster.py', reloading
+[INFO|_internal|L96] 2024-02-25T14:08:53+0100:  * Restarting with stat
+[INFO|server|L22] 2024-02-25T14:08:53+0100: info message
+[WARNING|_internal|L96] 2024-02-25T14:08:53+0100:  * Debugger is active!
+[INFO|_internal|L96] 2024-02-25T14:08:53+0100:  * Debugger PIN: 107-402-733
+[INFO|server|L33] 2024-03-01T17:59:48+0100: Received an API Request for getting timers
+[INFO|server|L54] 2024-03-01T18:01:15+0100: Received API Request for starting Timer
+[INFO|broadcaster|L32] 2024-03-01T18:01:15+0100: Started Handler succesfully!
+[INFO|server|L54] 2024-03-01T18:04:06+0100: Received API Request for starting Timer
+[INFO|broadcaster|L32] 2024-03-01T18:04:06+0100: Started Handler succesfully!
+[INFO|server|L54] 2024-03-01T18:04:08+0100: Received API Request for starting Timer
+[INFO|server|L54] 2024-03-01T18:04:17+0100: Received API Request for starting Timer
+[INFO|server|L54] 2024-03-01T18:21:15+0100: Received API Request for starting Timer
+[INFO|broadcaster|L32] 2024-03-01T18:21:15+0100: Started Handler succesfully!
+[INFO|server|L54] 2024-03-01T18:21:19+0100: Received API Request for starting Timer
+[INFO|server|L54] 2024-03-01T18:32:58+0100: Received API Request for starting Timer
+[INFO|broadcaster|L32] 2024-03-01T18:32:58+0100: Started Handler succesfully!
+[INFO|server|L54] 2024-03-01T18:33:03+0100: Received API Request for starting Timer
+[INFO|server|L54] 2024-03-01T18:33:05+0100: Received API Request for starting Timer
+[INFO|server|L54] 2024-03-01T18:34:32+0100: Received API Request for starting Timer
+[INFO|broadcaster|L32] 2024-03-01T18:34:32+0100: Started Handler succesfully!
+[INFO|server|L69] 2024-03-01T18:34:32+0100: Started Thread for Handler
+[INFO|server|L54] 2024-03-01T18:34:38+0100: Received API Request for starting Timer
+[INFO|server|L54] 2024-03-01T18:34:46+0100: Received API Request for starting Timer
+[INFO|server|L54] 2024-03-10T19:24:49+0100: Received API Request for starting Timer
+[INFO|broadcaster|L32] 2024-03-10T19:24:49+0100: Started Handler succesfully!
+[INFO|server|L69] 2024-03-10T19:24:49+0100: Started Thread for Handler
+[INFO|server|L54] 2024-03-10T19:25:33+0100: Received API Request for starting Timer
+[INFO|server|L54] 2024-03-10T19:25:40+0100: Received API Request for starting Timer
+[INFO|server|L54] 2024-03-10T19:26:44+0100: Received API Request for starting Timer
+[INFO|broadcaster|L32] 2024-03-10T19:26:44+0100: Started Handler succesfully!
+[INFO|server|L69] 2024-03-10T19:26:44+0100: Started Thread for Handler
